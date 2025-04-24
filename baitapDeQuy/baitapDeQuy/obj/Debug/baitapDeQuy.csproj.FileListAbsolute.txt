@@ -1,0 +1,7 @@
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\bin\Debug\baitapDeQuy.exe.config
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\bin\Debug\baitapDeQuy.exe
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\bin\Debug\baitapDeQuy.pdb
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\obj\Debug\baitapDeQuy.csproj.AssemblyReference.cache
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\obj\Debug\baitapDeQuy.csproj.CoreCompileInputs.cache
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\obj\Debug\baitapDeQuy.exe
+C:\KTLT\Luyện code cùng minh tuyên\baitapDeQuy\baitapDeQuy\obj\Debug\baitapDeQuy.pdb
